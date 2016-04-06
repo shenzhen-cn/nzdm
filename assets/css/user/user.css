@@ -1,0 +1,11 @@
+.search_panel{
+	margin-bottom: 50px; 
+	background-color:#f5f5f5; 
+	padding-top: 50px;
+	padding-bottom: 20px;
+	border-radius:15px;
+}
+
+.form-group{
+	padding-right: 15px;
+}
