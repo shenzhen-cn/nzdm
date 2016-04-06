@@ -27,7 +27,7 @@
                   <nav class="collapse navbar-collapse menu">                     
                      <ul class="nav navbar-nav sf-menu">
                         <li>
-                           <a  href="<?php echo site_url("dashboard/home"); ?>">
+                           <a  href="<?php echo site_url("#"); ?>">
                            主页                           
                            </a>                           
                         </li>                                                                                                                    
