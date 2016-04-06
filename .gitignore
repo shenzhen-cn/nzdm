@@ -4,7 +4,7 @@ application/cache/*
 /uploads/*
 .idea
 vendor
-index.php
+./index.php
 
 composer.lock
 
