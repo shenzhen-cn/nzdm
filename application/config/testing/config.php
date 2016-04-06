@@ -19,7 +19,8 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 */
 // $config['base_url'] = 'http://192.168.1.202/weng_anchor/admin/';
 
-$config['base_url'] = 'http://192.168.1.123/nizhidaoma114/nzdm_web';
+// $config['base_url'] = 'http://192.168.1.123/nizhidaoma114/nzdm_web';
+$config['base_url'] = 'http://133.130.52.221/nzdm';
 
 /*
 |--------------------------------------------------------------------------
